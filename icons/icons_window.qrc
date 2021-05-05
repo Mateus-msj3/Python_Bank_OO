@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>new_funcionario.png</file>
+    <file>list_funcionario.png</file>
+    <file>new_conta.png</file>
+    <file>list.png</file>
+    <file>bank.png</file>
+    <file>sobre.png</file>
+    <file>fun.png</file>
+    <file>contas.png</file>
+    <file>userr_login.png</file>
+    <file>user_login.png</file>
+    <file>homee.png</file>
+    <file>menu-toggle.png</file>
+  </qresource>
+</RCC>
